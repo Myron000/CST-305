@@ -4,6 +4,7 @@ import numpy as np
 from scipy.integrate import odeint
 import matplotlib.pyplot as plt
 
+### Code for this project was written by Brent M. Lund ###
 
 for num in range(1, 10):               #This is Amdahl's Law
     variable = 1 / num                  #variable represents the percentage change for the equation or fraction enhanced
